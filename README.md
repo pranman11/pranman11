@@ -6,4 +6,4 @@
 
 - 💬 Ask me about: Backend Engineering, API design and development, Django, Flask, SpringBoot, Elasticsearch
 
-- (More about me)[https://www.pranavmanglani.com/#]
+- [More about me](https://www.pranavmanglani.com/)
